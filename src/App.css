@@ -143,6 +143,9 @@ html, body, #root {
 
 /* Responsive Layout */
 @media (max-width: 768px) {
+   body{
+  margin-top: 180px;
+  }
   .content {
     flex-direction: column;
     align-items: center;
